@@ -1,7 +1,7 @@
 #P1 Portfolio
 
 ##Live URL
-[http://p1.aakanshasaharan.com]()
+[https://github.com/aakanshasaharan/p1](https://github.com/aakanshasaharan/p1)
 
 
 
@@ -11,18 +11,18 @@ Portfolio project, this is a brief introduction about myself including my pictur
 
 
 ##Details for teaching team
-It is a simple HTML file including pure CSS.
+This project consists of simple HTML, CSS, README files and a folder of images.
 
 
 
 ##Outside code
 Refreshed my HTML and CSS knowledge by reading:
 
-1. HTML: [http://www.w3schools.com]()
+1. HTML: [http://www.w3schools.com](http://www.w3schools.com)
 
-2. CSS:  [http://www.w3schools.com/css/]()
+2. CSS:  [http://www.w3schools.com/css/](http://www.w3schools.com/css/)
 
-3. Bootstrap:[http://www.w3schools.com/bootstrap/default.asp]()
+3. Bootstrap:[http://www.w3schools.com/bootstrap/default.asp](http://www.w3schools.com/bootstrap/default.asp)
 
 
 
